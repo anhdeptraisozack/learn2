@@ -2,9 +2,9 @@ body {
   background-image: url(./img/agg.avif);
 }
 h2 {
-  /* opacity: 50%; */
+  opacity: 50%;
   /* display: none; */
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 span {
   visibility: visible;
